@@ -4,7 +4,7 @@ def add(a, b):
     return a + b
 
 def main():
-    print("Simple calculator — add two numbers")
+    print("Simple calc — addition demo (branch B change)"
     print("Result:", add(2, 3))
 
 if __name__ == "__main__":
